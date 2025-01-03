@@ -1,5 +1,6 @@
 # state_grid
 > 国家电网数据接入HA
+
 > China State Grid Components for HACS
 
 <a name="install"></a>
